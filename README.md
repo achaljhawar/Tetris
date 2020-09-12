@@ -1,6 +1,6 @@
 # Tetris
 Tetris form python
-The Instructions are as folows:
+<p>The Instructions are as folows:</p>
 <ol>
  <li>You can use the ⬅️⬆️➡️⬇ arrow keys to rotate the peices.
  <li>You have to complete the lines of the grid to get points.
